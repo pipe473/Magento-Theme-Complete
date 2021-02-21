@@ -1,0 +1,91 @@
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+.minicart-wrapper .action.showcart .counter.qty {
+  background: #000000;
+  border-radius: 20px;
+}
+.minicart-wrapper .action.showcart:before {
+  content: "\e903";
+  font-size: 32px;
+  font-family: 'icomoon';
+  color: #757575;
+  font-weight: normal;
+  font-style: normal;
+  padding: 10px;
+}
+.minicart-wrapper .action.showcart.active:before {
+  content: "\e903";
+  font-size: 32px;
+  font-family: 'icomoon';
+  color: #757575;
+  font-weight: normal;
+  font-style: normal;
+  padding: 10px;
+}
+.block-products-list .widget-product-grid button {
+  border-radius: 25px;
+}
+.block-products-list .widget-product-grid button:hover {
+  opacity: 0.5;
+  transition: 300ms all;
+}
+.block-search .action.search:before {
+  content: "\e906";
+  font-size: 16px;
+  font-family: 'icomoon';
+  color: #757575;
+}
+.checkout .action.primary {
+  background: #000;
+  border: none;
+  font-weight: normal;
+}
+.authorization-link a,
+.authorization-link:visited a {
+  font-weight: bold;
+  color: #757575;
+  text-decoration: none;
+}
+.authorization-link a:hover,
+.authorization-link:visited a:hover {
+  color: #000000;
+}
+.authorization-link:before {
+  content: "\e904";
+  font-size: 16px;
+  font-family: 'icomoon';
+  color: #757575;
+}
+@media screen {
+  @font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans/light/opensans-300.woff2') format('woff2'), url('../fonts/opensans/light/opensans-300.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans/regular/opensans-400.woff2') format('woff2'), url('../fonts/opensans/regular/opensans-400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans/semibold/opensans-600.woff2') format('woff2'), url('../fonts/opensans/semibold/opensans-600.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans/bold/opensans-700.woff2') format('woff2'), url('../fonts/opensans/bold/opensans-700.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+  }
+  .items {
+    margin: 0;
+    padding: 0;
+    list-style: none none;
+  }
+}

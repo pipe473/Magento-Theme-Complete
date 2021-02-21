@@ -2285,3 +2285,61 @@
 [2021-02-21 17:50:54] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
 [2021-02-21 17:50:54] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
 [2021-02-21 17:50:54] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:12:18] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:12:18] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:12:18] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:12:18] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:12:18] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:14:50] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:14:50] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:14:50] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:14:50] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:14:50] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:19:40] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:19:40] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:19:40] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:19:40] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:19:40] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:27:56] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:27:56] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:27:56] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:27:56] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:27:56] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:34:10] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:34:10] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:34:10] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:34:10] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:34:10] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:34:13] main.ERROR: ParseError: Unexpected input in _typography.less on line 2, column 16
+1|  // icon fonts created using icomoon
+2|  .lib-font-face(
+3|     @family-name: @icomoon-icons__font-name,
+4|     @font-path: @icomoon-icons__font-path,
+5|     @font-weight: normal,
+6|     @font-style: normal [] []
+[2021-02-21 18:34:13] main.CRITICAL: ParseError: Unexpected input in _typography.less on line 2, column 16
+1|  // icon fonts created using icomoon
+2|  .lib-font-face(
+3|     @family-name: @icomoon-icons__font-name,
+4|     @font-path: @icomoon-icons__font-path,
+5|     @font-weight: normal,
+6|     @font-style: normal [] []
+[2021-02-21 18:34:14] main.ERROR: ParseError: Unexpected input in _typography.less on line 2, column 16
+1|  // icon fonts created using icomoon
+2|  .lib-font-face(
+3|     @family-name: @icomoon-icons__font-name,
+4|     @font-path: @icomoon-icons__font-path,
+5|     @font-weight: normal,
+6|     @font-style: normal [] []
+[2021-02-21 18:34:14] main.CRITICAL: ParseError: Unexpected input in _typography.less on line 2, column 16
+1|  // icon fonts created using icomoon
+2|  .lib-font-face(
+3|     @family-name: @icomoon-icons__font-name,
+4|     @font-path: @icomoon-icons__font-path,
+5|     @font-weight: normal,
+6|     @font-style: normal [] []
+[2021-02-21 18:41:10] main.INFO: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:41:10] main.INFO: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:41:10] main.INFO: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:41:10] main.INFO: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2021-02-21 18:41:10] main.INFO: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []

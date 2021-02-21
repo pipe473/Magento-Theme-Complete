@@ -2,6 +2,62 @@
  * Copyright © Magento, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
+.minicart-wrapper .action.showcart .counter.qty {
+  background: #000000;
+  border-radius: 20px;
+}
+.minicart-wrapper .action.showcart:before {
+  content: "\e903";
+  font-size: 32px;
+  font-family: 'icomoon';
+  color: #757575;
+  font-weight: normal;
+  font-style: normal;
+  padding: 10px;
+}
+.minicart-wrapper .action.showcart.active:before {
+  content: "\e903";
+  font-size: 32px;
+  font-family: 'icomoon';
+  color: #757575;
+  font-weight: normal;
+  font-style: normal;
+  padding: 10px;
+}
+.block-products-list .widget-product-grid button {
+  border-radius: 25px;
+}
+.block-products-list .widget-product-grid button:hover {
+  opacity: 0.5;
+  transition: 300ms all;
+}
+.block-search .action.search:before {
+  content: "\e906";
+  font-size: 16px;
+  font-family: 'icomoon';
+  color: #757575;
+}
+.checkout .action.primary {
+  background: #000;
+  border: none;
+  font-weight: normal;
+}
+.authorization-link a,
+.authorization-link:visited a {
+  font-weight: bold;
+  color: #757575;
+  text-decoration: none;
+}
+.authorization-link a:hover,
+.authorization-link:visited a:hover {
+  color: #000000;
+}
+.authorization-link:before {
+  content: "\e904";
+  font-size: 16px;
+  font-family: 'icomoon';
+  color: #757575;
+}
 .page-print .logo {
   display: block;
   float: none;
