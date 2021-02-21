@@ -1,0 +1,6 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1613929855;s:6:"expire";i:1613933455;s:4:"tags";s:57:"f49_BLOCK_HTML,f49_CAT_C,f49_CAT_C_4,f49_CAT_C_3,f49_MAGE";}
+
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first level-top"><a href="http://localhost:8888/magento/index.php/women.html"  class="level-top" ><span>First meal</span></a></li><li  class="level0 nav-2 category-item last level-top"><a href="http://localhost:8888/magento/index.php/men.html"  class="level-top" ><span>Second meal</span></a></li>            </ul>
+</nav>

@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/magento/lib/web/mage/mage.js

@@ -1,0 +1,193 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1613929856;s:6:"expire";i:1614016256;s:4:"tags";s:33:"f49_CAT_P,f49_BLOCK_HTML,f49_MAGE";}
+
+    <div class="block widget block-new-products grid">
+        <div class="block-title">
+            <strong role="heading" aria-level="2">New Products</strong>
+        </div>
+        <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-new-grid">
+                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://localhost:8888/magento/index.php/ensalada-mixta.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost:8888/magento/pub/media/catalog/product/cache/a787fbf1798493904c5a96c995ce7c5c/e/n/ensalada3.jpg"
+            max-width="240"
+            max-height="300"
+            alt="ensalada mixta"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="ensalada mixta"
+                                       href="http://localhost:8888/magento/index.php/ensalada-mixta.html"
+                                       class="product-item-link">
+                                        ensalada mixta                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="5" data-price-box="product-id-5">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-5-widget-new-grid"                data-price-amount="18"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">€18.00</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw%2C%2C\/product\/5\/","data":{"product":"5","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/wishlist\/index\/add\/","data":{"product":"5","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/catalog\/product_compare\/add\/","data":{"product":"5","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                     </li>
+                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://localhost:8888/magento/index.php/carne-a-la-brasa.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost:8888/magento/pub/media/catalog/product/cache/a787fbf1798493904c5a96c995ce7c5c/s/e/segundo1.jpeg"
+            max-width="240"
+            max-height="300"
+            alt="Carne a la brasa"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Carne a la brasa"
+                                       href="http://localhost:8888/magento/index.php/carne-a-la-brasa.html"
+                                       class="product-item-link">
+                                        Carne a la brasa                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-1-widget-new-grid"                data-price-amount="20"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">€20.00</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw%2C%2C\/product\/1\/","data":{"product":"1","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/wishlist\/index\/add\/","data":{"product":"1","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/catalog\/product_compare\/add\/","data":{"product":"1","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                     </li>
+                                        <li class="product-item">
+                        <div class="product-item-info">
+                            <a href="http://localhost:8888/magento/index.php/ensalada-manzana.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://localhost:8888/magento/pub/media/catalog/product/cache/a787fbf1798493904c5a96c995ce7c5c/e/n/ensalada2.jpg"
+            max-width="240"
+            max-height="300"
+            alt="ensalada manzana"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="ensalada manzana"
+                                       href="http://localhost:8888/magento/index.php/ensalada-manzana.html"
+                                       class="product-item-link">
+                                        ensalada manzana                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-6-widget-new-grid"                data-price-amount="14"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">€14.00</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary"
+                                                                data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw%2C%2C\/product\/6\/","data":{"product":"6","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/wishlist\/index\/add\/","data":{"product":"6","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Add to Wish List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/localhost:8888\/magento\/index.php\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL2xvY2FsaG9zdDo4ODg4L21hZ2VudG8vaW5kZXgucGhwLw,,"}}'
+                                                       title="Add to Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                     </li>
+                                    </ol>
+            </div>
+                    </div>
+    </div>
